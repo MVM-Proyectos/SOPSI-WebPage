@@ -1,58 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19e4bf5b-1784-472f-9829-1b90f9fb55c2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/SOPSI/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSI/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/js/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/static/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/SOPSIapp/static/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/app/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOPSI/template/app/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/SOPSI/template/app/base.html" afterDir="false" />
-    </list>
+    <list default="true" id="19e4bf5b-1784-472f-9829-1b90f9fb55c2" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,9 +70,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="712" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -153,6 +103,19 @@
               <item name="SOPSI-WebPage" type="462c0819:PsiDirectoryNode" />
               <item name="SOPSI" type="462c0819:PsiDirectoryNode" />
               <item name="SOPSIapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SOPSI-WebPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SOPSI-WebPage" type="462c0819:PsiDirectoryNode" />
+              <item name="SOPSI" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SOPSI-WebPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SOPSI-WebPage" type="462c0819:PsiDirectoryNode" />
+              <item name="SOPSI" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -201,7 +164,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="712" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
