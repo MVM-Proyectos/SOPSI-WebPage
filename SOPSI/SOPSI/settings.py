@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'app2.apps.App2Config',
+    'app1.apps.App2Config',
     'SOPSIapp.apps.SopsiappConfig',
     'django.contrib.admin',
     'django.contrib.auth',
